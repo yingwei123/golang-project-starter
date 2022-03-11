@@ -7,7 +7,7 @@ Creates a simple default golang server that serves gohtml, javascript, and css f
 Connected to MongoDb through a URI
 
 Required Environment variable:
-  ATLAS_URI -> Can be obtained from https://www.mongodb.com/
+  ATLAS_URI -> Can be obtained from https://www.mongodb.com/ \
   ApplicationRootPath -> application root path, basically path to main file
   
 URI Example : 
